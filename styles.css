@@ -61,6 +61,27 @@ img.post-img{
 div.icons{
     padding-top:0.2em;
 }
+img.likes-user{
+    border-radius: 70%;
+}
+#html{
+    z-index: 3;
+    position: relative;
+}
+#css{
+    z-index: 2;
+    position: relative;
+    right: 10px;
+}
+#geeks{
+    z-index: 1;
+    position: relative;
+    right: 20px;
+}
+#likedby-text{
+    position:relative;
+    right:15px;
+}
 div.caption{
     padding-right: 0.5em;
 }
